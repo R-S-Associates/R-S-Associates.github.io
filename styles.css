@@ -28,3 +28,9 @@
 .tab-content.active {
   display: block;
 }
+
+.tab-content ul {
+  text-align: left; /* Adjust text alignment of bullet points */
+  margin-left: 0; /* Remove default left margin for UL */
+  padding-left: 20px; /* Add padding for the bullet points */
+}
