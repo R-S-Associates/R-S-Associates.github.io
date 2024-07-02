@@ -30,10 +30,17 @@
 }
 
 .tab-content ul {
-  text-align: center; /* Align bullet points to the left */
+  text-align: left; /* Align bullet points to the left */
   padding-left: 20px; /* Add padding for bullet points */
 }
 
 .tab-content p {
   text-align: center; /* Center align paragraphs */
 }
+
+.tab-content ul,
+.tab-content p {
+  margin: 0 auto; /* Center the content horizontally */
+  max-width: 600px; /* Adjust max-width as needed */
+}
+
