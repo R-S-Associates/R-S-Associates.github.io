@@ -31,7 +31,7 @@
 
 .tab-content ul {
   text-align: center; /* Align bullet points to the left */
-  padding-left: 20px; /* Add padding for bullet points */
+  padding-left: 10px; /* Add padding for bullet points */
 }
 
 .tab-content p {
