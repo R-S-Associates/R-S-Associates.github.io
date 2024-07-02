@@ -25,13 +25,14 @@
 
 .tab-content h2 {
   font-size: 24px;
+  text-align: center; /* Center align headings */
 }
 
 .tab-content p {
   font-size: 16px;
+  text-align: center; /* Center align paragraphs */
 }
 
 .tab-content.active {
   display: block;
 }
-
