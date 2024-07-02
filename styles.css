@@ -30,7 +30,10 @@
 }
 
 .tab-content ul {
-  text-align: left; /* Adjust text alignment of bullet points */
-  margin-left: 0; /* Remove default left margin for UL */
-  padding-left: 20px; /* Add padding for the bullet points */
+  text-align: left; /* Align bullet points to the left */
+  padding-left: 20px; /* Add padding for bullet points */
+}
+
+.tab-content p {
+  text-align: center; /* Center align paragraphs */
 }
