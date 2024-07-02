@@ -20,6 +20,7 @@
 .tab-content {
   display: none;
   padding: 20px;
+  text-align: center; /* Center align text */
 }
 
 .tab-content h2 {
