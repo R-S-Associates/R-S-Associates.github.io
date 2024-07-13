@@ -56,9 +56,15 @@ body {
   text-align: center;
 }
 
-.product img, .tab-content img {
+.product img{
   max-width: 200%;
   height: auto;
 }
+.tab-content img {
+  max-width: 200px; /* Set maximum width */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 10px; /* Example: Add margin below the image */
+}
+
 
 
