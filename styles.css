@@ -46,6 +46,13 @@ body {
   max-width: 600px; /* Adjust max-width as needed */
 }
 
+.tab-content img {
+  max-width: 2000px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+
 .product-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -60,12 +67,6 @@ body {
   max-width: 200%;
   height: auto;
 }
-.tab-content img {
-  max-width: 500px;
-  height: auto;
-  margin-bottom: 10px;
-}
-
 
 /* CSS styles for the horizontal timeline */
     .timeline {
