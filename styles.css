@@ -46,3 +46,19 @@ body {
   max-width: 600px; /* Adjust max-width as needed */
 }
 
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.product {
+  text-align: center;
+}
+
+.product img, .tab-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+
