@@ -63,7 +63,11 @@ body {
   text-align: center;
 }
 
-.product img{
+.product1 img{
+  max-width: 50%;
+  height: auto;
+}
+.product2 img{
   max-width: 200%;
   height: auto;
 }
