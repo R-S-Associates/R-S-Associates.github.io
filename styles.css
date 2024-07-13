@@ -1,4 +1,7 @@
 /* styles.css */
+body {
+  background-color: #f5f5dc; /* Light tan color */
+}
 
 .tab-container {
   display: flex;
