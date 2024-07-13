@@ -61,10 +61,11 @@ body {
   height: auto;
 }
 .tab-content img {
-  max-width: 200px; /* Set maximum width */
-  height: auto; /* Maintain aspect ratio */
-  margin-bottom: 10px; /* Example: Add margin below the image */
+  max-width: 500px;
+  height: auto;
+  margin-bottom: 10px;
 }
+
 
 /* CSS styles for the horizontal timeline */
     .timeline {
